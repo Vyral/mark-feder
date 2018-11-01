@@ -78,10 +78,10 @@ lender:
 
 socials:
   review_sm_icons: false
-  facebook_url:
-  linkedin_url:
-  youtube_url:
-  twitter_url:
+  facebook_url: http://www.facebook.com/pages/Pacific-Home-Mortgage-Funding-Inc/556220114388665?ref=tn_tnmn
+  linkedin_url: http://www.linkedin.com/pub/mark-feder/65/301/3ba/
+  youtube_url: http://www.youtube.com/MarkFederMTGAdvisor
+  twitter_url: https://twitter.com/MarkFeder_PHM
   instagram_url:
   pinterest_url:
   zillow_url:
@@ -93,9 +93,9 @@ podcast:
   title: 'San Diego Mortgage Podcast with Mark Feder'
   categories: Education
   image: /img/podcast.jpg
-  subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the San Diego Area Real Estate Market'
-  description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Pacific Home Mortgage Funding, Inc. - your professional San Diego Mortgage Agents.'
-  keywords: 'Mortgage, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in San Diego, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, real estate listings, buying a house, homes for sale, mls, home buyer'
+  subtitle: 'Learn all info for buyers and sellers in the San Diego Area Real Estate Market'
+  description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Pacific Home Mortgage Funding, Inc.'
+  keywords: 'mortgage calculator, loan calculator, loans, mortgage rates, mortgage payment calculator, home loan calculator, interest rates, fha loan, home loan, home equity loan, current mortgage rates, mortgage repayment calculator, first time home buyer, lend, reverse mortgage'
   author: 'Mark Feder'
 
 images:
