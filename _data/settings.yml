@@ -1,51 +1,67 @@
 audit_header: false
-title: -- MARKET -- Real Estate Video Blog with -- CLIENT NAME --
-description: Our mission at -- CLIENT BRAND -- is to be your best resource for -- MARKET -- real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The -- CLIENT BRAND --, your professional -- MARKET -- Real Estate Agents.
+title: San Diego Mortgage Video Blog with Mark Feder
+description: Our mission at Pacific Home Mortgage Funding, Inc. is to be your best resource for San Diego Mortgage advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The Pacific Home Mortgage Funding, Inc.
 show_custom_links: false
 custom_links:
   - title:
     url:
-show_custom_links_new_tab: false
+show_custom_links_new_tab: true
 custom_links_new_tab:
-  - title:
-    url:
+  - title: Mortgage FAQ
+    url: http://markfeder.mysmartblog.com/mortgage-faq-2/
+  - title: Loan Process
+    url: http://markfeder.mysmartblog.com/loan-process/
+  - title: Get a Rate Quote
+    url: http://markfeder.mysmartblog.com/get-rate-quote/
 
 client:
-  name:
+  name: Mark Feder
   title:
-  license_number:
+  license_number: 'BRE #: 01210598 NMLS # 867081'
   about_markdown: |
+    Mark began his career in the mortgage industry in 1995 in Hollywood, Florida. Before founding Pacific Home Mortgage Funding, Inc. Mark was a part of several real estate and financial companies, including Countrywide Financial, Archon Group, 2020 Mortgage, and Preferred Mortgage Solutions.
 
-  brand:
+    Mark’s saw an opportunity in today’s volatile mortgage market for a boutique mortgage company that could truly service the client’s needs and advise them on the complexities of the mortgage market.
+
+    Mark describes his role within Pacific Home Mortgage Funding, Inc. as working hard to advise and assist borrowers in obtaining their home loans. He works to achieve this through his thoroughness in the loan process and through his honest in dealings with clients. His personal goal in the business is to provide opportunities to potential homeowners and, in the process help his business grow.
+  brand: Pacific Home Mortgage Funding, Inc.
+  brand_license_number: 'BRE #: 01926221 NMLS # 1018245'
   brokerage:
-  market:
-  address:
-  phone:
+  market: San Diego
+  address: 4060 30th Street<br>San Diego, CA 92104
+  phone: 858-337-1520
   phone_type:
   phone2:
   phone2_type:
-  email:
+  email: mfeder@phmfund.com
   url:
 
-CTAs:
-  first_CTA_text: Home Valuation
-  first_CTA_URL: /homevalue/
-  second_CTA_text: Home Search
-  second_CTA_URL: /homesearch/
+# CTAs:
+#   first_CTA_text: Home Valuation
+#   first_CTA_URL: /homevalue/
+#   second_CTA_text: Home Search
+#   second_CTA_URL: /homesearch/
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/001.jpg
-    CTA_title: "What’s Your -- MARKET -- Home Worth?"
-    CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
-    CTA_link_text: "Free Home Value Report"
-    CTA_url: /homevalue/
+    CTA_title: "Questions About Your Mortgage?"
+    CTA_text: "Check out a few of our most frequently asked questions."
+    CTA_link_text: "Mortgage FAQ"
+    CTA_url: http://markfeder.mysmartblog.com/mortgage-faq-2/
 
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/002.jpg
-    CTA_title2: "Looking for a -- MARKET -- Home?"
-    CTA_text2: "Search the entire MLS for your -- MARKET -- home."
-    CTA_link_text2: "Search the MLS"
-    CTA_url2: /homesearch/
+    CTA_title2: "How do I Start the Loan Process?"
+    CTA_text2: "There are a wide variety of loan options, so it will be useful to know some of the basic tendencies."
+    CTA_link_text2: "Loan Process"
+    CTA_url2: http://markfeder.mysmartblog.com/loan-process/
+
+third_sidebar_CTA:
+  - CTA_image_path3: /img/cta-images/003.jpg
+    CTA_title3: "Get a Rate Quote"
+    CTA_text3:
+    CTA_link_text3: "Get a Rate Quote"
+    CTA_url3: http://markfeder.mysmartblog.com/get-rate-quote/
 
 lender:
   show_section: false
@@ -74,25 +90,26 @@ socials:
   podcast_url:
 
 podcast:
-  title: '-- MARKET -- Real Estate Podcast with -- CLIENT NAME --'
+  title: 'San Diego Mortgage Podcast with Mark Feder'
   categories: Education
   image: /img/podcast.jpg
-  subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market'
-  description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
-  keywords: 'Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer'
-  author: '-- CLIENT NAME --'
+  subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the San Diego Area Real Estate Market'
+  description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Pacific Home Mortgage Funding, Inc. - your professional San Diego Mortgage Agents.'
+  keywords: 'Mortgage, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in San Diego, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, real estate listings, buying a house, homes for sale, mls, home buyer'
+  author: 'Mark Feder'
 
 images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
   logo_width_number: 40
-  hero_text: -- MARKET -- Real Estate Video Blog
+  hero_text: San Diego Mortgage Video Blog
   hero_background_hex: '#999'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
-  brand_color: '#b40101'
-  theme_color: '#999'
+  brand_color: '#105c7c'
+  theme_color: '#707076'
+  accent_color: '#ffde77'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
