@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The 3 Most Important Factors of Getting a Home Loan
-date: 2019-01-02 21:07:07
+date: 2019-01-02 21:07:00
 tags:
   - Home Buyer Tips
 excerpt: >-
@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/3-things-about-a-home-loan-youtube.jpg
-youtube_code: 5_az1Y19JlE
+youtube_code: ItH7NatjvYo
 ---
 
 {% include youtube.html %}
