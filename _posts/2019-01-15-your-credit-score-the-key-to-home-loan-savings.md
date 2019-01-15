@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Your Credit Score: The Key to Home Loan Savings'
-date: 2019-01-15 22:12:38
+date: 2019-01-15 22:12:00
 tags:
   - Home Loans
 excerpt: >-
@@ -29,6 +29,6 @@ Home loans are commonly structured to break down pricing based upon 20 point cre
 
 **We use credit diagnostic tools to try to bump our clients’ scores up.** Sometimes, we advise them to do something as simple as paying down a charge card from a department store.
 
-I’ve had clients who’ve saved themselves thousands of dollars over the life of a mortgage by paying a little extra toward their credit card early. Doing this could propel you into a higher credit score group and save you money as you apply for a loan. &nbsp;&nbsp;&nbsp;
+I’ve had clients who’ve saved themselves thousands of dollars over the life of a mortgage by paying a little extra toward their credit card early. Doing this could propel you into a higher credit score group and save you money as you apply for a loan.    
 
 If you need help with any of your real estate needs or would like to go over some scenarios, please give me a call at 858-37-1520. I’d be happy to help!
