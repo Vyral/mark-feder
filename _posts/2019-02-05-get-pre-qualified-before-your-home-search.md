@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Get Pre-Qualified Before Your Home Search
-date: 2019-02-05 21:46:12
+date: 2019-02-05 21:46:00
 tags:
   - Home Buyer Tips
 excerpt: >-
@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/pre-qualification-youtube.jpg
-youtube_code: TQ1LQKOQF44
+youtube_code: aCzwqX7eDwc
 ---
 
 {% include youtube.html %}
