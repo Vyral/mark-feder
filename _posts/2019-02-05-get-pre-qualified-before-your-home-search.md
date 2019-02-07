@@ -25,6 +25,6 @@ For one thing, **you’ll get a written pre-approval that you’ll be able to in
 
 {% include pullquote.html %}
 
-Having said that, there’s no guarantee that just because you get pre-approved, you’re still going to end up buying a home, so keep in mind that this is a considerable time commitment on your end, and you must be ready for homeownership if you’re going to go through with it.
+Having said that, there’s no guarantee that just because you get pre-approved, you’re still going to end up buying a home, so keep in mind that this is a considerable time commitment on your end. You must be ready for homeownership if you’re going to go through with it.
 
 If you’d like to talk more about what’s involved in the pre-qualification or pre-approval process, don’t hesitate to call or email me at your earliest convenience. If you have any other mortgage questions, feel free to reach out to me as well. I’d love to help you.
