@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why You Should Consider Refinancing Your Mortgage
-date: 2019-02-21 18:36:27
+date: 2019-02-21 18:36:00
 tags:
   - Home Buyer Tips
 excerpt: >-
@@ -13,8 +13,8 @@ pullquote: Some homeowners simply refinance to pay off their mortgage sooner.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/refinancing-youtube.jpg
-youtube_code: UAO6J4FqVdw
+youtube_alternate_image: /uploads/refinancing-youtube-1.jpg
+youtube_code: ME_GCqbdozc
 ---
 
 {% include youtube.html %}
