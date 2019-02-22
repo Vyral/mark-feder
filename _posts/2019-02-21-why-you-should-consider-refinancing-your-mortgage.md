@@ -19,11 +19,11 @@ youtube_code: ME_GCqbdozc
 
 {% include youtube.html %}
 
-Today I’m excited to talk about a few reasons why homeowners decide refinance their mortgage. **The most common reason people refinance is because they want to lower their interest rate on their mortgage.**
+Today I’m excited to talk about a few reasons why homeowners decide to refinance their mortgage. **The most common reason people refinance is because they want to lower their interest rate on their mortgage.**
 
 Another common reason is debt consolidation, which is when someone uses the equity in their home to pay off things like credit cards and car loans. These things have much higher interest rates than their refinanced mortgage would, so this helps them to save a lot of cash flow from a monthly perspective.
 
-People often sometimes refinance because, after seeing their homes go up in value, they want to upgrade. By refinancing, they can pull out cash from their home’s equity and use that money to remodel and further increase their home’s value.
+People sometimes refinance because, after seeing their home go up in value, they want to upgrade. By refinancing, they can pull out cash from their home’s equity and use that money to remodel and further increase their home’s value.
 
 {% include pullquote.html %}
 
