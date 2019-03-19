@@ -21,7 +21,7 @@ youtube_code: CR4rqulPUs8
 
 When people are wanting to acquire a home loan, it’s important for them to look at what income can be used to help qualify.
 
-In general, you can use your base salary, commissions, bonuses, tips, etc. **Anything works as long as you’ve had at least a two-year history of receiving it.**&nbsp;
+In general, you can use your base salary, commissions, bonuses, tips, etc. **Anything works as long as you’ve had at least a two-year history of receiving it.**
 
 {% include pullquote.html %}
 
