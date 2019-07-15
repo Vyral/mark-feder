@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 3 Things an Agent’s Buyer Should Know
-date: 2019-04-25 20:04:01
+date: 2019-07-14 20:04:00
 tags:
   - Home Buyer Tips
 excerpt: >-
