@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Help Your Clients Flip Properties the Right Way
-date: 2019-08-26 20:05:14
+date: 2019-08-26 20:05:00
 tags:
   - Home Buyer Tips
   - Home Seller Tips
