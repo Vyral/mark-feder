@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Calculate the Cap Rate
-date: 2019-09-09 17:31:23
+date: 2019-09-09 17:31:00
 tags:
   - Home Buyer Tips
 excerpt: 'Today, let’s discuss how to calculate cap rates.'
@@ -26,6 +26,6 @@ When residential agents are looking to get into the rental business and advise c
 
 {% include pullquote.html %}
 
-Here’s an example: Let’s say you bought a four-unit building in San Diego for $1 million and that you spent $200,000 to fix it up; you’d have $1.2 million tied up in the property. Now let’s assume that the rents would be $8,000 for the whole building ($2,000 per door); that would give you an annual rent of $96,000. Then assume that it costs $40,000 to operate that building, including property tax insurance, maintenance, management, water, sewage, trash, etc. All in all, you’d be left with a net operating income of $56,000. **When you’re looking at cap rates, you assume that there’s no mortgage, so you take the $56,000 and divide it by the $1.2 million to calculate your cap rate: about 4.7%**
+Here’s an example: Let’s say you bought a four-unit building in San Diego for $1 million and spent $200,000 to fix it up; you’d have $1.2 million tied up in the property. Now let’s assume that the rents would be $8,000 for the whole building ($2,000 per door); that would give you an annual rent of $96,000. Then assume that it costs $40,000 to operate that building, including property tax insurance, maintenance, management, water, sewage, trash, etc. All in all, you’d be left with a net operating income of $56,000. **When you’re looking at cap rates, you assume that there’s no mortgage, so you take the $56,000 and divide it by the $1.2 million to calculate your cap rate: about 4.7%**
 
 If you have any questions about cap rates or about investing in property, don’t hesitate to reach out to me. I’d love to help you.
