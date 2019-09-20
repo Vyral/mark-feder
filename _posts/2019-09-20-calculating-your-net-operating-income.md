@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Calculating Your Net Operating Income
-date: 2019-09-20 16:46:39
+date: 2019-09-20 16:46:00
 tags:
   - Home Buyer Tips
 excerpt: >-
