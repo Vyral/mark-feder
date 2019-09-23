@@ -21,7 +21,7 @@ youtube_code: CpsbB3JIzcg
 
 {% include youtube.html %}
 
-Net operating income (NOI) is a term you’ll come across rather often when you purchase investment property. But **what is net operating income and how is it calculated?&nbsp;**
+Net operating income (NOI) is a term you’ll come across rather often when you purchase an investment property. But **what is net operating income and how is it calculated?&nbsp;**
 
 Allow me to explain using an example. Let’s say the gross rent on a building amounts to $100,000 per year and your annual expenses before the mortgage payment are $40,000. In this case, your NOI is the difference: $60,000.&nbsp;
 
