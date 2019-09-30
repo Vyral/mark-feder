@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Are Your Operating Expenses?
-date: 2019-09-27 18:57:10
+date: 2019-09-27 18:57:00
 tags:
   - Real Estate
 excerpt: >-
@@ -26,7 +26,7 @@ A number of the agents I work with have been calling me lately because their cli
 
 A major factor in determining whether a piece of real estate is a sound investment is calculating its **operating expenses.** Examples include property taxes, home insurance, maintenance, repairs, legal items, accounting items, utilities, trash, and so on.&nbsp;
 
-**Once you account for the property’s operating expenses, you’ll know what it will cost to run the property.** Using an example, say your client bought a property for $1 million and rent amounts to $100,000 each year. The property comes with a vacancy factor of $5,000, $15,000 in property taxes, $5,000 in insurance, another $5,000 for management, and the remaining $10,000 goes to maintenance, sewer, water, trash, and accounting. Add it all up and your operating expenses total $35,000.&nbsp;
+**Once you account for the property’s operating expenses, you’ll know what it will cost to run the property.** Using an example, say your client bought a property for $1 million and rent amounts to $100,000 each year. The property comes with a vacancy cost of $5,000, $15,000 in property taxes, $5,000 in insurance, another $5,000 for management, and the remaining $10,000 goes to maintenance, sewer, water, trash, and accounting. Add it all up and your operating expenses total $35,000.&nbsp;
 
 {% include pullquote.html %}
 
